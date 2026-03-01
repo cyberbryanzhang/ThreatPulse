@@ -311,10 +311,7 @@ private struct CreditsOverlay: View {
                 Text("Audio sources (Pixabay License):")
                     .font(.system(size: 13, weight: .semibold, design: .rounded))
                     .foregroundColor(.white.opacity(0.9))
-                Text("• \"Aboard A Aurora (Game Menu Pulse)\" — whvle")
-                Text("• \"Tela Inicio\" — calango_fx_official")
-                Text("• \"Click buttons UI menu sounds effects button 6\" — skyscraper_seven")
-                Text("—")
+           
                 Text("Core design, gameplay logic, and implementation: Bryan Zhang.")
                 Text("OpenAI Codex assistance: Liquid Glass styling and secondary UI layout refinements.")
                 Text("Most of this project was independently created by Bryan Zhang.")
